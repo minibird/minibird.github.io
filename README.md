@@ -1,2 +1,2 @@
 # minibird.github.io
-https://minibird.com
+<a href="https://minibird.com">https://minibird.com</a>
